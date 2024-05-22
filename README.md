@@ -1,6 +1,6 @@
 # Image Lambda
 
-## Author**: Wajiha Khan
+## Author: Wajiha Khan
 
 ## Version: 1.0.0
 
